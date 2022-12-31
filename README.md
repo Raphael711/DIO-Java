@@ -1,2 +1,4 @@
 # DIO-Java
-Repositório para mostrar os meus projetos de Java Básico
+É aqui que será salvo todos os projetos que eu fizer de Java básico com o curso da DIO.
+
+O intuito é mostrar a minha evolução quanto ao desenvolvimento Java.
